@@ -1,1 +1,3 @@
 # shiny-train
+
+git clone ...
